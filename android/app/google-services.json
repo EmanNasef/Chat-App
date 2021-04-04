@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405356502289",
+    "firebase_url": "https://my-chat-39acf.firebaseio.com",
+    "project_id": "my-chat-39acf",
+    "storage_bucket": "my-chat-39acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405356502289:android:5c4a1957077e8014fa40b0",
+        "android_client_info": {
+          "package_name": "eman.nasef.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405356502289-6tmlvis4tt1r4qmcdun6fdvjrchfh1d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHQMAfgDulvQLtqZjzAnZeuuzumGThGE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405356502289-6tmlvis4tt1r4qmcdun6fdvjrchfh1d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
